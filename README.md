@@ -2,8 +2,6 @@
 
 A modern, stylish QR code generator built with FastAPI and vanilla JavaScript.
 
-![QR Code Generator](static/favicon.png)
-
 ## Features
 
 - 🎨 Custom QR code colors
@@ -59,3 +57,4 @@ GET /api/generate_qr_code?data=...&fill_color=...&back_color=...&box_size=...
 
 MIT
 "# qr-code-generator-website" 
+
