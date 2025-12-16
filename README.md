@@ -56,6 +56,7 @@ GET /api/generate_qr_code?data=...&fill_color=...&back_color=...&box_size=...
 ## License
 
 MIT
-"# qr-code-generator-website" 
+
+
 
 
