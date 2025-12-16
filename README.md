@@ -15,7 +15,7 @@ A modern, stylish QR code generator built with FastAPI and vanilla JavaScript.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/qr-code-generator.git
+git clone https://github.com/AkbulutMirac/qr-code-generator-website.git
 cd qr-code-generator
 ```
 
@@ -57,4 +57,5 @@ GET /api/generate_qr_code?data=...&fill_color=...&back_color=...&box_size=...
 
 MIT
 "# qr-code-generator-website" 
+
 
